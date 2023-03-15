@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>My first app on netlify.</h1>
+      <h1>My first app on App.</h1>
     </div>
   );
 }
